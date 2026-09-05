@@ -11,7 +11,7 @@ The project follows a complete end-to-end data analytics workflow using:
 
 The objective was to help a retail business better understand customer behaviour and make data-driven business decisions.
 🎯 Business Problem
-A retail company wanted to analyse customer shopping patterns to improve:
+A retail company wanted to analyse customer shopping patterns to improve:	
 
 Customer engagement
 Product strategy
